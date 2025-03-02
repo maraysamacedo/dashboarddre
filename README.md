@@ -9,9 +9,9 @@ Filtros dinâmicos para explorar diferentes períodos e indicadores financeiros.
 Análise detalhada de custos e performance da empresa, com gráficos e tabelas.
 <br><br>
 ## Tecnologias
-**Power BI:** Para a criação do dashboard interativo.<br>
-**DAX:** Para cálculos de medidas financeiras.<br>
-**Power Query:** Para integração e transformação de dados.
+- **Power BI:** Para a criação do dashboard interativo.<br>
+- **DAX:** Para cálculos de medidas financeiras.<br>
+- **Power Query:** Para integração e transformação de dados.
 <br><br>
 ## Estrutura
 O painel foi projetado para ser intuitivo, com gráficos e métricas-chave, permitindo que os usuários explorem os dados financeiros de maneira eficiente. Ele inclui as seguintes seções:

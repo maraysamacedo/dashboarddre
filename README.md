@@ -23,6 +23,7 @@ Lucro: Exibição do lucro operacional e final.
 ## Objetivo
 Este dashboard foi criado para ajudar empresas a monitorar e analisar seus resultados financeiros de forma clara e eficaz, ajudando na tomada de decisões estratégicas baseadas em dados.
 <br><br>
-
+**[Projeto DRE](https://app.powerbi.com/view?r=eyJrIjoiZWVhNzFmM2EtMmU1My00NDdiLTk5ZDEtZGQzNWNmZjUzNTkxIiwidCI6IjAwMWVkMTQ5LWQ3NjEtNGRjNS05ODMwLTUyYTc5ZjU1MmU4NCJ9)
+<br><br>**
 ![Demonstração do Projeto](4%C2%AA%20Dashboard%20-%20DRE/gif/Projeto%20POWER%20BI%20%20Dashboard%20DRE.gif
 )
